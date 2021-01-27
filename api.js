@@ -1,6 +1,9 @@
 
 
 
-module.exports = {
 
+module.exports = {
+    Player,
+    ExplorerSearch,
+    
 }
