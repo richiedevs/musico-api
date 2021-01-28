@@ -1,11 +1,11 @@
 {
-  "name": "musico-modules",
+  "name": "musico-api",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "node index"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Team Musico",
+  "license": "MIT"
 }
